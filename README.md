@@ -8,7 +8,7 @@
 
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
-[![Quarkus]([https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white]([https://img.shields.io/badge/Quarkus-000000?style=for-the-badge&logo=quarkus))](https://getbootstrap.com/](https://img.shields.io/badge/Quarkus-000000?style=for-the-badge&logo=quarkus))
+[![Quarkus](https://img.shields.io/badge/Quarkus-000000?style=for-the-badge&logo=quarkus)](https://img.shields.io/badge/Quarkus-000000?style=for-the-badge&logo=quarkus)
 
 👩‍💻 IDE 
 
