@@ -8,7 +8,7 @@
 
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
-[![Quarkus](https://img.shields.io/badge/Quarkus-000000?style=for-the-badge&logo=quarkus)](https://quarkus.io)
+[![SPRING_BOOT](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/)
 
 [![AMAZON AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/it/?nc2=h_lg)
 
