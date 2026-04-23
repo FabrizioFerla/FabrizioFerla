@@ -46,7 +46,7 @@
 
 [![JAVA_SCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-[![SPRINGBOOT](https://thumbnail.imgbin.com/9/15/12/spring-boot-spring-logo-featuring-green-leaf-design-sNCCYJtb_t.jpg)](https://spring.io/)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 #### 🦠 OS
 [![MACOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/it/macos/)
